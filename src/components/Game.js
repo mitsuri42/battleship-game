@@ -1,8 +1,12 @@
 import React from 'react'
+import Board from './Board'
 
 function Game() {
   return (
-    <div>Game</div>
+    <div className='gameContainer'>
+      <Board /> 
+      <button></button>
+    </div>
   )
 }
 
