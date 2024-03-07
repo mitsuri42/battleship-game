@@ -1,1 +1,1 @@
-### Battleship game
+### Battleship Game
